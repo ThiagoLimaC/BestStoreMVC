@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using BestStoreMVC.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BestStoreMVC.Data
 {
@@ -8,5 +9,7 @@ namespace BestStoreMVC.Data
         {
             
         }
+
+        public DbSet<Product> Products { get; set; }
     }
 }
