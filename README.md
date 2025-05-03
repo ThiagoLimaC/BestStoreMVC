@@ -1,6 +1,6 @@
 # BestStoreMVC
 
-<img src="wwwroot/img/videoBestStoreMVC.gif" width=700px>
+<img src="wwwroot/img/videoBestStoreMVC.gif" width=800px>
 
 ## **Descrição**
 O **BestStoreMVC** é uma aplicação desenvolvida com Blazor e .NET 9 para gerenciar produtos de forma eficiente. A aplicação permite criar, editar, visualizar e excluir produtos, oferecendo uma interface moderna e responsiva.
